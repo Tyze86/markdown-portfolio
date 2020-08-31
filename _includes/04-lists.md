@@ -1,8 +1,8 @@
 1 Food
-  -Thai food
-  -street food
-  -fast food
+  - Thai food
+  - street food
+  - fast food
 2 motorcycle
-  -Speed
-  -Lean
-  -fun
+  - Speed
+  - Lean
+  - fun
